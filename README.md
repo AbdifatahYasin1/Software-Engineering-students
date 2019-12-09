@@ -22,14 +22,17 @@ Syntax highlighted code block
 2. List
 
 
-| Table Header|
-|------|
-|row1|
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+
+
+| Table Header|
+|------|
+|row1|
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
